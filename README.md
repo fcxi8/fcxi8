@@ -4,4 +4,4 @@
 
 --
 
-![tryhackme stats](https://raw.githubusercontent.com/fcxi8/fcxi8/master/assets/thm_propic.png)
+![THM Stats](https://tryhackme-badges.s3.amazonaws.com/fcxi8.png)
